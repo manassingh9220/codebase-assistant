@@ -1,0 +1,16 @@
+#Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Node
+node_modules/
+dist/
+
+# Repos cloned locally
+repos/
+
+# IDE
+.vscode/
+.idea/
