@@ -415,7 +415,7 @@ PostgreSQL 16 (via Docker)
 ### Environment Variables
 ```env
 # .env
-DATABASE_URL=postgresql://user:pass@localhost:5432/codebase_assistant
+CODEBASE_DB_URL=postgresql://user:pass@localhost:5433/codebase_assistant
 ANTHROPIC_API_KEY=your_anthropic_key
 VOYAGE_API_KEY=your_voyage_key
 GITHUB_TOKEN=optional_for_private_repos
