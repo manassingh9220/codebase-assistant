@@ -14,3 +14,6 @@ repos/
 # IDE
 .vscode/
 .idea/
+
+# Repos cloned by the indexer
+github_repos/
